@@ -2,6 +2,7 @@
 ___
 ### Objectifs :
 1. **Mettre en oeuvre les technologies web pour créer et héberger mon portfolio**
+
 ![N|Solid](https://img.icons8.com/windows/96/000000/netbeans.png) ![N|Solid](https://img.icons8.com/color/96/000000/html-5.png) ![N|Solid](https://img.icons8.com/color/96/000000/css3.png) ![N|Solid](https://img.icons8.com/color/96/000000/bootstrap.png) ![N|Solid](https://img.icons8.com/color/96/000000/git.png) ![N|Solid](https://img.icons8.com/windows/96/000000/github.png)
 
 - **Netbeans** : Environnement de développement intégré (IDE) utilisé pour ce projet
