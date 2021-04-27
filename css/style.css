@@ -19,3 +19,12 @@ and open the template in the editor.
 img {
     width:128px;
 }
+
+.imgCentre {
+    margin:auto;
+    display:block;
+}
+
+.imgTaille {
+    width:1000px;
+}
