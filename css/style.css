@@ -28,3 +28,7 @@ img {
 .imgTaille {
     width:1000px;
 }
+
+.texteAlignement {
+    text-align: center;
+}
